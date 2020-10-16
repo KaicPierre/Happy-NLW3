@@ -87,3 +87,12 @@ function toggleSelect(event) {
 
   // atualizar o input hidden com o vaor selecionado
 }
+/*
+  function validate(event){
+    const needsLatAndLng = true
+      if(needsLatAndLng){
+      event.preventDefaut()
+      alert('Selecione um ponto no Mapa')
+  }
+}
+*/
